@@ -28,5 +28,3 @@ We employed **YOLOv11** due to its high accuracy and speed, making it a suitable
 
 ---
 
-### نویسنده / Author: Mahbod Abazari  
-[مشاهده مخزن در GitHub](https://github.com/mahbodabazari/mine_yolo)
